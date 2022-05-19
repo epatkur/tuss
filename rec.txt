@@ -5,3 +5,4 @@ welcome
 • R Through Excel, Heiberger & Neuwirth (for those who use the SAS Excel plug-in)
 dddd
 ddd
+thanks
